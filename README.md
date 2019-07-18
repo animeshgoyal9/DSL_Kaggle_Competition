@@ -1,3 +1,5 @@
-# DSL_Kaggle_Competition
+# Predicting the Click Through Rate (CTR) for an AD Agency
 
-This was an in class Kaggle competition that I took part in. 
+This competition was a part of an in class Kaggle Competition.  
+
+Because of privacy issues, names of features were removed. 
